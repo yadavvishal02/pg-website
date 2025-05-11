@@ -1,2 +1,2 @@
 # pg-website
-built a frontend website of a pg in delhi
+Built a frontend website for a PG in delhi.
